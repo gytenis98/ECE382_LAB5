@@ -100,3 +100,7 @@ Use the buttons on a remote control to either control your lab #4 etch-a-sketch 
 
 ##Testing/Debugging
 I had some problems figuring out how to make my device listen to my remote. In particular, with the length of signals. I spent quite a few hours in the lab for the first day requirements. Later, i have problem to figure out how I should determine  the length of +/- of my signal. I used original 100 and it did not work. I found that 200 works by experimenting with it. 
+
+
+###Documentation
+Dr. Coulston helped me to debug my sintax mistakes. Dr. York help me to understand the structure of how I should build my program. Also, I discussed principals how to build the program with C2C Terragonli.

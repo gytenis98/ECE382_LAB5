@@ -21,20 +21,11 @@ Lab day 2: demonstrate your code can receive and decode button presses from the 
 
 Lab day 3: implement etch-a-sketch or pong
 
-Lab day 1
+Prelab:
 
-Answers to these activities should be posted to GitHub.
+Question 1: it should be arround 65.536 msec
 
-Connecting the IR sensor
+Question 2: It should be around 1ms per count
 
-Insert the IR receiver module into the protoboard. Use M/F wires to connect your protoboard to your MSP430. Use a regular wire to connect your signal and ground to the logic analyzer.
+Pictures of prelab table are includes. Also, collected data included too.
 
-When you are looking at the sensor ball on your IR receiver module, the pin on the left is your signal pin; the pin in the middle is your ground pin; and the pin on the right is your Vcc. 
-
-On your MSP430, connect the signal pin to XIN/P2.6 on J2, the ground pin to the GND pin on J6, and the Vcc pin to Vcc on J6. 
-
-###Question 1: it should be arround 65.536 msec
-###Question 2: It should be around 1ms per count
-
-###Pictures of prelab table are includes. Also, collected data included too.
-It is not the final version of prelab, but just to show that I did it on time.

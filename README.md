@@ -29,7 +29,7 @@ Question 2: It should be around 1ms per count
 
 Pictures of prelab table are includes. Also, collected data included too.
 
-###Lab day 1
+###Lab day 1 (Done)
 
 Connecting the IR sensor
 
@@ -81,4 +81,16 @@ Collect and tabulate in Excel 8 samples of timer A counts for each of the follow
 
 
 ![LCD](https://raw.githubusercontent.com/gytenis98/ECE382_LAB5/master/2014-11-04%2023.16.47.jpg?raw=true "LCD")
+
+###Day 2 (Done)
+
+Demonstrate to your instructor that your code can receive and decode button presses from the remote control. 
+
+##Required Functionality (Done)
+
+Watch the Dave Jones Trigger Hold-off video and achieve that functionality using both timer interrupts and a port 2 interrupt. Turn an LED on and off with one button on the remote. Turn another LED on and off with a different button.
+
+The below image may be of some use:
+
+![LCD](https://raw.githubusercontent.com/gytenis98/ECE382_LAB5/master/schematic.jpg?raw=true "LCD")
 

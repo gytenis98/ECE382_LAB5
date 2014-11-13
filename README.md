@@ -61,7 +61,7 @@ Setup your LaunchPad like the picture below. Make sure to connect the power and 
 
 And my setup:
 
-![LCD](https://raw.githubusercontent.com/gytenis98/ECE382_LAB5/master/launchpadSetup.jpg?raw=true "LCD")
+![LCD](https://raw.githubusercontent.com/gytenis98/ECE382_LAB5/master/2014-11-03%2009.15.22.jpg?raw=true "LCD")
 
 Set the trigger threshold to mid voltage and the trigger hold-off to accommodate an IR packet. On my remote control, this was about 80ms. Please note that remote control data packets are not standardized by any means, so the remote that you use to perform these experiment will almost certainly generate different results than those that your neighbor's will generate.
 

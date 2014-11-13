@@ -29,3 +29,11 @@ Question 2: It should be around 1ms per count
 
 Pictures of prelab table are includes. Also, collected data included too.
 
+![LCD](https://raw.githubusercontent.com/gytenis98/ECE382_LAB5/master/2014-11-04%2023.02.57.jpg?raw=true "LCD")
+
+![LCD](https://raw.githubusercontent.com/gytenis98/ECE382_LAB5/master/2014-11-04%2023.16.37.jpg?raw=true "LCD")
+
+![LCD](https://raw.githubusercontent.com/gytenis98/ECE382_LAB5/master/2014-11-04%2023.16.44.jpg?raw=true "LCD")
+
+![LCD](https://raw.githubusercontent.com/gytenis98/ECE382_LAB5/master/2014-11-04%2023.16.47.jpg?raw=true "LCD")
+

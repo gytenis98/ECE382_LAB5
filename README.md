@@ -94,3 +94,6 @@ The below image may be of some use:
 
 ![LCD](https://raw.githubusercontent.com/gytenis98/ECE382_LAB5/master/schematic.jpg?raw=true "LCD")
 
+##A Functionality
+
+Use the buttons on a remote control to either control your lab #4 etch-a-sketch (up, down, right, left, color) or your pong game.

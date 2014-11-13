@@ -55,6 +55,8 @@ Before you start on this portion of the assignment, watch Dave Jones' Trigger Ho
 
 Setup your LaunchPad like the picture below. Make sure to connect the power and ground in the correct order! Connect the the O'scope on the Vout pin of the Vishay Remote Control Decoder. 
 
+![LCD](https://raw.githubusercontent.com/gytenis98/ECE382_LAB5/master/launchpadSetup.jpg?raw=true "LCD")
+
 ![LCD](https://raw.githubusercontent.com/gytenis98/ECE382_LAB5/master/2014-11-04%2023.02.57.jpg?raw=true "LCD")
 
 ![LCD](https://raw.githubusercontent.com/gytenis98/ECE382_LAB5/master/2014-11-04%2023.16.37.jpg?raw=true "LCD")

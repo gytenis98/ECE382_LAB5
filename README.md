@@ -21,7 +21,7 @@ Lab day 2: demonstrate your code can receive and decode button presses from the 
 
 Lab day 3: implement etch-a-sketch or pong
 
-Prelab:
+Prelab questions:
 
 Question 1: it should be arround 65.536 msec
 
@@ -44,6 +44,10 @@ Timer Counts
 Build a project around test5.c and then download it onto your LaunchPad. Make sure to open the variables tab (View -> Variables). I also like to clear memory from the Memory Browser tab (View -> Memory Browser), Fill Memory from 0x200 to 0x400 with 0's. Run the program and then press a button on a remote. Then pause the program and look at the variables. You should see something like the following. 
 
 ![LCD](https://raw.githubusercontent.com/gytenis98/ECE382_LAB5/master/arrayScreenShot.gif?raw=true "LCD")
+
+Annotate the picture below to indicate which line of the for loop in the program is executed at which part of the pulse. You should show a total of 6 lines of code (lines 32-34 and lines 36-38). 
+
+![LCD](https://raw.githubusercontent.com/gytenis98/ECE382_LAB5/master/irWave.gif?raw=true "LCD")
 
 
 ![LCD](https://raw.githubusercontent.com/gytenis98/ECE382_LAB5/master/2014-11-04%2023.02.57.jpg?raw=true "LCD")
